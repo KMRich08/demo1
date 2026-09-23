@@ -14,3 +14,5 @@ Instructions for using the project.
 ## Contributing
 
 Intructions for contributing to the project.
+
+## Branching
