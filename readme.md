@@ -20,3 +20,5 @@ Intructions for contributing to the project.
 ## This is the dev branch
 
 ### This is a test feature
+
+Made fix from dev branch.
